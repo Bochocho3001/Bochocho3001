@@ -5,7 +5,7 @@
 - python
 
 
-### 🤔 I’m looking for help with
+### 🤔 I’m looking for help with:
 - Reverse Engineering
 
 
