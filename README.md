@@ -1,8 +1,9 @@
-### 🧠 I’m currently learning
+### 🧠 Looking to be fluent in:
 - c/c++
 - Reverse Engineering
 - lua
 - js
+- python
 
 **📫 How to reach me: _bocho#8180_**
 
