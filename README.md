@@ -1,4 +1,10 @@
-### Hi there 👋
+### 🧠 I’m currently learning
+- c/c++
+- Reverse Engineering
+- lua
+- js
+
+**📫 How to reach me: _bocho#8180_**
 
 <!--
 **Bochocho3001/Bochocho3001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
