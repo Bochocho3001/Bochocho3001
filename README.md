@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  🐱‍👤 Habilidades: <strong>• C/C++ • Assembly • JavaScript • Lua</strong>
+  🐱‍👤 Skills: <strong>• C/C++ • Assembly • JavaScript • Lua</strong>
 </p>
 
 <p align="left">
