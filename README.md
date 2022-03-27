@@ -1,27 +1,25 @@
-### 🧠 Looking to be fluent in:
-- c/c++
-- lua
-- js
-- python
+<img src="https://images-ext-2.discordapp.net/external/4Mc-6tF_pjNbc6WzyZcuKkhcf215XWx-6MNUXx7UZfs/https/raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="yDz7 Icon">
 
+<p align="left"> 
+  👀 Hello, im Bocho.
+</p>
 
-### 🤔 I’m looking for help with:
-- Reverse Engineering
+<p align="left">
+  🐱‍👤 Habilidades: <strong>• C/C++ • Assembly • JavaScript • Lua</strong>
+</p>
 
+<p align="left">
+  🔧 Tools: <strong>VSCode • GitHub • IDA Pro</strong>
+</p>
 
-**📫 How to reach me: _bocho#8180_**
+<p align="left">
+  ✨ If you want to chat with me, just message me.
+</p>
 
-<!--
-**Bochocho3001/Bochocho3001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+    <a href="https://discord.com/users/772525801551691816" alt="Discord">
+        <img src="https://img.shields.io/badge/-Discord-%23333?style=for-the-badge&logo=Discord&logoColor=FFFFFF&link=https://discord.gg/Z2AVF7Cdnt"/>
+    </a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
