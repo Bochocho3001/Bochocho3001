@@ -1,6 +1,6 @@
 <img src="https://images-ext-2.discordapp.net/external/4Mc-6tF_pjNbc6WzyZcuKkhcf215XWx-6MNUXx7UZfs/https/raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Icon">
 
-<p align="center">
+<p align="left">
     discord:
 </p>
 
